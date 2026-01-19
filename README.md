@@ -5,7 +5,7 @@ I'm a 2th-year Computer Science student passionate about AI and full-stack devel
 
 ## 🛠️ Skills & Technologies
 - **Languages:** Typescript, JavaScript, Css, SQL
-- **Frameworks & Tools:** Hono, BUn,  Node.js, CRUD, React, Vite
+- **Frameworks & Tools:** Hono, Bun,  Node.js, CRUD, React, Vite
 
 ## 🌱 Currently Learning
 - Advanced web development with Hono and React
